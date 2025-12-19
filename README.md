@@ -40,4 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeel-prince&show_icons=true&locale=en" alt="adeel-prince" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-prince&" alt="adeel-prince" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adeel-Prince)](https://github.com/ryo-ma/github-profile-trophy)
 
