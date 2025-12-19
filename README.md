@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeel-prince&label=Profile%20views&color=0e75b6&style=flat" alt="adeel-prince" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-prince" alt="adeel-prince" /></a> </p>
-
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **React.js, React Native**
@@ -40,5 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeel-prince&show_icons=true&locale=en" alt="adeel-prince" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-prince&" alt="adeel-prince" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adeel-Prince)](https://github.com/ryo-ma/github-profile-trophy)
+
 
