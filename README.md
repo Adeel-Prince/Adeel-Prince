@@ -1,9 +1,23 @@
+<!-- <picture><img align="left" src="https://github.com/adeel-prince/adeel-prince/blob/main/Logo.gif?raw=true" width=20% height=20%></picture> -->
+
+<h1><i><b> Adeel Ahmad Github Profile </b></i></h1> 
+<h4><i> Programmer. Software and IT Enthusiast. </i></h4>
+
+<hr>
+
+<a href="https://skillicons.dev">
+ <picture><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio,vscode,html,css,tailwind,js,react,nodejs,typescript,java,py,git,github,figma"alt="My Skills"/></picture> 
+</a><br/><br/>
+<p align="center"> 
+  <picture><img <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-Prince&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+  <!-- <picture><img <img align="top" src="https://github-readme-stats.vercel.app/api?username=adeel-prince&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture>  -->
+
 <h1 align="center">Hi 👋, I'm Adeel Ahmad</h1>
 <h3 align="center">A Passionate Software Engineer & Front-End Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeel-prince&label=Profile%20views&color=0e75b6&style=flat" alt="adeel-prince" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-prince" alt="adeel-prince" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-prince" alt="adeel-prince" /></a> </p> -->
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **React.js, React Native**
