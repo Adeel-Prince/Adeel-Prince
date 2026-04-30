@@ -37,13 +37,13 @@
 - ⚡ Fun fact **I create Front-end Projects**
 
 <h3 align="left">Connect with me:</h3>
-<table border="0">
+<table>
   <tr>
-    <td><a href="https://twitter.com" target="blank"><img src="https://githubusercontent.com" alt="Twitter" width="30" height="30" /></a></td>
-    <td><a href="https://linkedin.com" target="blank"><img src="https://githubusercontent.com" alt="LinkedIn" width="30" height="30" /></a></td>
-    <td><a href="https://stackoverflow.com" target="blank"><img src="https://githubusercontent.com" alt="StackOverflow" width="30" height="30" /></a></td>
-    <td><a href="https://fb.com" target="blank"><img src="https://githubusercontent.com" alt="Facebook" width="30" height="30" /></a></td>
-    <td><a href="https://instagram.com" target="blank"><img src="https://githubusercontent.com" alt="Instagram" width="30" height="30" /></a></td>
+    <td><a href="https://twitter.com/itxmeadii06" target ="blank"><img src="https://www.readmecodegen.com/api/social-icon?name=twitter&bg=gradient-blue&animation=rainbow" alt="twitter" /></a></td>
+    <td><a href="https://www.linkedin.com/in/adeel-ahmad-590558292/" target="blank"><img src="https://www.readmecodegen.com/api/social-icon?name=LinkedIn&bg=gradient-blue&animation=rainbow&color=%233b82f6" alt="LinkedIn" /></a></td>
+    <td><a href="https://stackoverflow.com/users/28264313" target="blank"><img src="https://www.readmecodegen.com/api/social-icon?name=stackoverflow&bg=gradient-blue&animation=rainbow&color=%233b82f6" alt="stackoverflow" /></a></td>
+    <td><a href="https://www.facebook.com/ItxmeAdeelAhmad" target="blank"><img src="https://www.readmecodegen.com/api/social-icon?name=Facebook&bg=gradient-blue&animation=rainbow&color=%233b82f6" alt="Facebook" /></a></td>
+    <td><a href="https://instagram.com/mrdeveloperactive" target="blank"><img src="https://www.readmecodegen.com/api/social-icon?name=Instagram&bg=gradient-blue&animation=rainbow&color=%233b82f6" alt="Instagram" /></a></td>
   </tr>
 </table>
 
