@@ -1,6 +1,7 @@
 <!-- <picture><img align="left" src="https://github.com/adeel-prince/adeel-prince/blob/main/Logo.gif?raw=true" width=20% height=20%></picture> -->
 
 <h1><i><b> Adeel Ahmad Github Profile </b></i></h1> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1000&pause=1000&color=000000&width=435&lines=Web+Developer+;Software+Engineer" alt="Typing SVG" /></a>
 <h4><i> Programmer. Software and IT Enthusiast. </i></h4>
 
 <hr>
