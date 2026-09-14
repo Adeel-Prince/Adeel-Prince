@@ -10,8 +10,9 @@
  <picture><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio,vscode,html,css,tailwind,js,react,nodejs,typescript,java,py,git,github,figma"alt="My Skills"/></picture> 
 </a><br/><br/>
 <p align="center"> 
-  <picture><img <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-Prince&theme=redical&hide_border=true" style="width: 890px;"/></picture>
-  <!-- <picture><img <img align="top" src="https://github-readme-stats.vercel.app/api?username=adeel-prince&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture>  -->
+  <picture><img align="top" src="https://my-github-readme-activity-graph.vercel.app/graph?username=Adeel-Prince&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+  <!-- <picture><img <img align="top" src="https://my-github-readme-activity-graph.vercel.app/api?username=adeel-prince&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture>  -->
+  <!-- ![Github Activity Graph](https://my-github-readme-activity-graph.vercel.app/graph?username=Adeel-Prince&theme=dracula) -->
 
 <h1 align="center">Hi 👋, I'm Adeel Ahmad</h1>
 <h3 align="center">A Passionate Software Engineer & Front-End Developer from Pakistan</h3>
